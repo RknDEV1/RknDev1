@@ -38,12 +38,12 @@ I enjoy transforming ideas into functional products, exploring new technologies 
 
 <div align="center">
 
-### Languages
+### Languages & Frameworks
 
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Swift](https://img.shields.io/badge/Swift-0D1117?style=for-the-badge&logo=swift&logoColor=F54A2A)
+![Objective-C](https://img.shields.io/badge/Objective--C-0D1117?style=for-the-badge&logo=apple&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=54C5F8)
 
 ### Tools & Platforms
 
@@ -58,12 +58,12 @@ I enjoy transforming ideas into functional products, exploring new technologies 
 
 ## 🚀 WHAT I BUILD
 
-| 📱 iOS | 🌐 WEB | ⚙️ AUTOMATION |
+| 📱 iOS | 🌐 WEB | 📱 CROSS-PLATFORM |
 |:---:|:---:|:---:|
-| Interfaces | Landing Pages | Developer Tools |
-| Frameworks | Websites | Scripts |
-| Integrations | Responsive UI | Workflows |
-| Experiments | Digital Products | Automation |
+| Swift | HTML | Flutter |
+| Objective-C | Landing Pages | Mobile Apps |
+| Frameworks | Responsive UI | Cross-platform |
+| Integrations | Digital Products | UI / UX |
 
 ---
 
