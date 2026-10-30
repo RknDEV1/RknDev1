@@ -2,43 +2,43 @@
 
 # RknDEV
 
-**iOS Developer · Swift · SwiftUI · Native Apple Platforms**
+**Desenvolvedor iOS · Swift · SwiftUI · Plataformas Apple**
 
 </div>
 
 ---
 
-### About
+### Sobre
 
-Developer focused on **native iOS development** with Swift and SwiftUI.  
-I build clean, reusable and well-documented tools for Apple platforms.
+Desenvolvedor focado em **desenvolvimento nativo para iOS** com Swift e SwiftUI.  
+Crio ferramentas limpas, reutilizáveis e bem documentadas para as plataformas Apple.
 
 ---
 
-### Featured Projects
+### Projetos em Destaque
 
 **[swift-toolkit](https://github.com/RknDEV1/swift-toolkit)**  
-Reusable Swift utilities: Keychain, formatters, networking, haptics, validators and more.
+Utilitários reutilizáveis em Swift: Keychain, formatadores, rede, haptics, validadores e mais.
 
 **[swift-ui-kit](https://github.com/RknDEV1/swift-ui-kit)**  
-Modern SwiftUI components: buttons, validated text fields, cards, toasts and layout helpers.
+Componentes SwiftUI modernos: botões, campos validados, cards, toasts e helpers de layout.
 
 ---
 
-### Tech Stack
+### Tecnologias
 
 `Swift` · `SwiftUI` · `Xcode` · `Swift Package Manager` · `GitHub Actions`
 
 ---
 
-### Focus
+### Foco
 
-Building reliable native iOS libraries and tools with clean architecture and good documentation.
+Construir bibliotecas e ferramentas nativas para iOS com arquitetura limpa e boa documentação.
 
 ---
 
 <div align="center">
 
-**Build. Learn. Improve.**
+**Construir. Aprender. Melhorar.**
 
 </div>
