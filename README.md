@@ -4,46 +4,36 @@
 
 **iOS Developer · Swift · SwiftUI · Native Apple Platforms**
 
-[![GitHub](https://img.shields.io/badge/GitHub-RknDEV1-181717?style=flat&logo=github)](https://github.com/RknDEV1)
-
 </div>
 
 ---
 
 ### About
 
-Developer focused on **native iOS development** using Swift and SwiftUI.  
-I build clean, maintainable and practical tools for Apple platforms.
-
-Interests:
-- Swift & SwiftUI
-- System utilities and developer tools
-- Secure storage and authentication patterns
-- Automation with GitHub Actions
+Developer focused on **native iOS development** with Swift and SwiftUI.  
+I build clean, reusable and well-documented tools for Apple platforms.
 
 ---
 
-### Featured Project
+### Featured Projects
 
 **[swift-toolkit](https://github.com/RknDEV1/swift-toolkit)**  
-A clean collection of reusable Swift and SwiftUI utilities:
-- Keychain helper
-- Type-safe UserDefaults
-- Validators
-- SwiftUI components
-- Swift Package Manager ready
+Reusable Swift utilities: Keychain, formatters, networking, haptics, validators and more.
+
+**[swift-ui-kit](https://github.com/RknDEV1/swift-ui-kit)**  
+Modern SwiftUI components: buttons, validated text fields, cards, toasts and layout helpers.
 
 ---
 
 ### Tech Stack
 
-`Swift` · `SwiftUI` · `Objective-C` · `Xcode` · `Git` · `GitHub Actions`
+`Swift` · `SwiftUI` · `Xcode` · `Swift Package Manager` · `GitHub Actions`
 
 ---
 
 ### Focus
 
-Building reliable native iOS tools and utilities with clean architecture and good documentation.
+Building reliable native iOS libraries and tools with clean architecture and good documentation.
 
 ---
 
