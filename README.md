@@ -2,7 +2,8 @@
 
 # RknDEV
 
-**iOS Developer · Swift · SwiftUI · Native Apple Platforms**
+**iOS Developer · Swift · SwiftUI · Native Apple Platforms**  
+Based in **Aracaju, Sergipe**
 
 </div>
 
@@ -10,7 +11,7 @@
 
 ### About
 
-I build **native iOS** tools and libraries with Swift and SwiftUI — focused on clean APIs, reuse and clear documentation.
+I build **native iOS** tools and apps with Swift and SwiftUI — clean APIs, reuse and documentation in English and Portuguese.
 
 ---
 
@@ -18,9 +19,10 @@ I build **native iOS** tools and libraries with Swift and SwiftUI — focused on
 
 | Repository | Description |
 |------------|-------------|
+| **[aju-util](https://github.com/RknDEV1/aju-util)** | Utility app for Aracaju — emergency, services, city & local tech shortcuts |
 | **[swift-toolkit](https://github.com/RknDEV1/swift-toolkit)** | Utilities: Keychain, validators, formatters, networking, debouncer |
 | **[swift-ui-kit](https://github.com/RknDEV1/swift-ui-kit)** | UI components: buttons, text fields, cards, toasts |
-| **[toolkit-demo](https://github.com/RknDEV1/toolkit-demo)** | Sample screens using both packages together |
+| **[toolkit-demo](https://github.com/RknDEV1/toolkit-demo)** | Sample screens using the packages together |
 
 ---
 
@@ -32,7 +34,7 @@ I build **native iOS** tools and libraries with Swift and SwiftUI — focused on
 
 ### Focus
 
-Reliable packages, consistent structure, and documentation in **English** and **Portuguese**.
+Reliable packages and practical apps with local relevance (Aracaju / Sergipe).
 
 ---
 
