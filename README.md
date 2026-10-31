@@ -2,39 +2,58 @@
 
 # RknDEV
 
-**iOS Developer · Swift · SwiftUI · Native Apple Platforms**  
-Based in **Aracaju, Sergipe**
+**iOS · Swift · SwiftUI**  
+Aracaju, Sergipe — Brasil
+
+[![GitHub](https://img.shields.io/badge/GitHub-RknDEV1-181717?logo=github)](https://github.com/RknDEV1)
+[![Swift](https://img.shields.io/badge/Swift-5.9+-orange?logo=swift)](https://swift.org)
+[![Platform](https://img.shields.io/badge/Platform-iOS%2017%2B-blue)](https://developer.apple.com)
 
 </div>
 
 ---
 
-### About
+### About / Sobre
 
-I build **native iOS** tools and apps with Swift and SwiftUI — clean APIs, reuse and documentation in English and Portuguese.
+**EN** — I build native iOS libraries and small apps with Swift and SwiftUI. Focus on clean structure, reusable code and documentation in English and Portuguese.
+
+**PT** — Desenvolvo bibliotecas e apps nativos iOS com Swift e SwiftUI. Foco em estrutura limpa, código reutilizável e documentação em inglês e português.
 
 ---
 
-### Public projects
+### Featured projects / Projetos em destaque
 
-| Repository | Description |
-|------------|-------------|
-| **[aju-util](https://github.com/RknDEV1/aju-util)** | Utility app for Aracaju — emergency mode, offline contacts, health tips, map coordinates |
-| **[swift-toolkit](https://github.com/RknDEV1/swift-toolkit)** | Utilities: Keychain, validators, formatters, networking, debouncer |
-| **[swift-ui-kit](https://github.com/RknDEV1/swift-ui-kit)** | UI components: buttons, text fields, cards, toasts |
-| **[toolkit-demo](https://github.com/RknDEV1/toolkit-demo)** | Sample screens using the packages together |
+| Project | Description |
+|---------|-------------|
+| **[aju-util](https://github.com/RknDEV1/aju-util)** | Utility app for Aracaju — emergency numbers, public services, health tips, offline coordinates |
+| **[swift-toolkit](https://github.com/RknDEV1/swift-toolkit)** | Swift utilities — Keychain, validators (email/CPF), formatters, network, debouncer |
+| **[swift-ui-kit](https://github.com/RknDEV1/swift-ui-kit)** | SwiftUI components — buttons, validated fields, cards, toasts, headers |
+| **[toolkit-demo](https://github.com/RknDEV1/toolkit-demo)** | Sample screens using both packages together |
 
 ---
 
 ### Stack
 
-`Swift` · `SwiftUI` · `MapKit` · `Swift Package Manager` · `GitHub Actions` · `Xcode`
+```text
+Swift · SwiftUI · MapKit · Swift Package Manager
+GitHub Actions · Git · Xcode
+```
 
 ---
 
-### Focus
+### What I care about / O que priorizo
 
-Reliable packages and practical apps with local relevance (Aracaju / Sergipe).
+- Packages you can open and understand quickly
+- README in **EN + PT-BR**
+- Local relevance (Aracaju / Sergipe) when it makes sense
+- CI and clear project layout
+
+---
+
+### Learning path / Jornada
+
+Building in public: from toolkits → demo → a city utility app (**Aju Util**).  
+Next steps depend on access to a Mac for device builds; the code stays on GitHub as a portfolio.
 
 ---
 
