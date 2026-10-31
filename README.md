@@ -19,7 +19,7 @@ I build **native iOS** tools and apps with Swift and SwiftUI — clean APIs, reu
 
 | Repository | Description |
 |------------|-------------|
-| **[aju-util](https://github.com/RknDEV1/aju-util)** | Utility app for Aracaju — emergency, services, city & local tech shortcuts |
+| **[aju-util](https://github.com/RknDEV1/aju-util)** | Utility app for Aracaju — emergency mode, offline contacts, health tips, map coordinates |
 | **[swift-toolkit](https://github.com/RknDEV1/swift-toolkit)** | Utilities: Keychain, validators, formatters, networking, debouncer |
 | **[swift-ui-kit](https://github.com/RknDEV1/swift-ui-kit)** | UI components: buttons, text fields, cards, toasts |
 | **[toolkit-demo](https://github.com/RknDEV1/toolkit-demo)** | Sample screens using the packages together |
@@ -28,7 +28,7 @@ I build **native iOS** tools and apps with Swift and SwiftUI — clean APIs, reu
 
 ### Stack
 
-`Swift` · `SwiftUI` · `Swift Package Manager` · `GitHub Actions` · `Xcode`
+`Swift` · `SwiftUI` · `MapKit` · `Swift Package Manager` · `GitHub Actions` · `Xcode`
 
 ---
 
