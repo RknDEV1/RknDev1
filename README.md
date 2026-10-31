@@ -10,33 +10,29 @@
 
 ### About
 
-Developer focused on **native iOS development** with Swift and SwiftUI.  
-I build clean, reusable and well-documented tools for Apple platforms.
+I build **native iOS** tools and libraries with Swift and SwiftUI — focused on clean APIs, reuse and clear documentation.
 
 ---
 
-### Featured Projects
+### Public projects
 
-**[swift-toolkit](https://github.com/RknDEV1/swift-toolkit)**  
-Reusable Swift utilities: Keychain, formatters, networking, haptics, validators and more.
-
-**[swift-ui-kit](https://github.com/RknDEV1/swift-ui-kit)**  
-Modern SwiftUI components: buttons, validated text fields, cards, toasts and layout helpers.
-
-**[toolkit-demo](https://github.com/RknDEV1/toolkit-demo)**  
-Demo app showcasing both libraries working together (login, formatters, validators, components).
+| Repository | Description |
+|------------|-------------|
+| **[swift-toolkit](https://github.com/RknDEV1/swift-toolkit)** | Utilities: Keychain, validators, formatters, networking, debouncer |
+| **[swift-ui-kit](https://github.com/RknDEV1/swift-ui-kit)** | UI components: buttons, text fields, cards, toasts |
+| **[toolkit-demo](https://github.com/RknDEV1/toolkit-demo)** | Sample screens using both packages together |
 
 ---
 
-### Tech Stack
+### Stack
 
-`Swift` · `SwiftUI` · `Xcode` · `Swift Package Manager` · `GitHub Actions`
+`Swift` · `SwiftUI` · `Swift Package Manager` · `GitHub Actions` · `Xcode`
 
 ---
 
 ### Focus
 
-Building reliable native iOS libraries and tools with clean architecture and good documentation.
+Reliable packages, consistent structure, and documentation in **English** and **Portuguese**.
 
 ---
 
