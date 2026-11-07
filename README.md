@@ -27,13 +27,14 @@ Aracaju, Sergipe — Brasil
 | Project | Platform | Description |
 |---------|----------|-------------|
 | **[aju-util](https://github.com/RknDEV1/aju-util)** | iOS | Utility app for Aracaju — emergency, services, health tips |
+| **[aju-util-android](https://github.com/RknDEV1/aju-util-android)** | Android | Android version of Aju Util (in progress) |
 | **[aju-util-web](https://github.com/RknDEV1/aju-util-web)** | Web | Same idea, usable in any mobile browser |
 | **[swift-toolkit](https://github.com/RknDEV1/swift-toolkit)** | iOS | Keychain, biometrics, validators, formatters |
 | **[swift-ui-kit](https://github.com/RknDEV1/swift-ui-kit)** | iOS | Reusable SwiftUI components |
 | **[swift-async-kit](https://github.com/RknDEV1/swift-async-kit)** | iOS | Advanced networking (retry, timeout, cache) |
 | **[brasil-utils](https://github.com/RknDEV1/brasil-utils)** | iOS | Brazilian helpers (CPF, CEP, phone, R$) |
+| **[android-toolkit](https://github.com/RknDEV1/android-toolkit)** | Android | Kotlin utilities (validators, formatters) |
 | **[toolkit-demo](https://github.com/RknDEV1/toolkit-demo)** | iOS | Visual demos of the packages |
-| **[android-toolkit](https://github.com/RknDEV1/android-toolkit)** | Android | Kotlin + Compose utilities (in progress) |
 
 ---
 
