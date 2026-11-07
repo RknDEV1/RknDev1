@@ -27,6 +27,7 @@ Aracaju, Sergipe — Brasil
 |---------|-------------|
 | **[aju-util](https://github.com/RknDEV1/aju-util)** | Utility app for Aracaju — emergency, services, health tips (SwiftUI) |
 | **[aju-util-web](https://github.com/RknDEV1/aju-util-web)** | Web version of Aju Util — usable on any phone browser |
+| **[swift-async-kit](https://github.com/RknDEV1/swift-async-kit)** | Advanced async networking — retry, timeout, cache, typed errors |
 | **[brasil-utils](https://github.com/RknDEV1/brasil-utils)** | Brazilian helpers — phone, CEP, CPF, currency (R$) |
 | **[swift-toolkit](https://github.com/RknDEV1/swift-toolkit)** | Swift utilities — Keychain, validators, formatters, network, debouncer |
 | **[swift-ui-kit](https://github.com/RknDEV1/swift-ui-kit)** | SwiftUI components — buttons, fields, cards, toasts |
@@ -37,7 +38,7 @@ Aracaju, Sergipe — Brasil
 ### Stack
 
 ```text
-Swift · SwiftUI · MapKit · Swift Package Manager
+Swift · SwiftUI · async/await · MapKit · Swift Package Manager
 GitHub Actions · Git · Xcode · Web (HTML/JS)
 ```
 
@@ -48,7 +49,7 @@ GitHub Actions · Git · Xcode · Web (HTML/JS)
 - Packages you can open and understand quickly
 - README in **EN + PT-BR**
 - Local relevance (Aracaju / Sergipe / Brasil) when it makes sense
-- Practical tools that work even without a Mac
+- Practical and advanced tools for real apps
 
 ---
 
