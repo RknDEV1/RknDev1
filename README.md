@@ -29,7 +29,7 @@ Aracaju, Sergipe — Brasil
 | **[aju-util-web](https://github.com/RknDEV1/aju-util-web)** | Web version of Aju Util — usable on any phone browser |
 | **[swift-async-kit](https://github.com/RknDEV1/swift-async-kit)** | Advanced async networking — retry, timeout, cache, typed errors |
 | **[brasil-utils](https://github.com/RknDEV1/brasil-utils)** | Brazilian helpers — phone, CEP, CPF, currency (R$) |
-| **[swift-toolkit](https://github.com/RknDEV1/swift-toolkit)** | Swift utilities — Keychain, validators, formatters, network, debouncer |
+| **[swift-toolkit](https://github.com/RknDEV1/swift-toolkit)** | Swift utilities — Keychain, biometrics (Face ID/Touch ID), validators, formatters |
 | **[swift-ui-kit](https://github.com/RknDEV1/swift-ui-kit)** | SwiftUI components — buttons, fields, cards, toasts |
 | **[toolkit-demo](https://github.com/RknDEV1/toolkit-demo)** | Sample screens using the packages |
 
@@ -39,7 +39,7 @@ Aracaju, Sergipe — Brasil
 
 ```text
 Swift · SwiftUI · async/await · MapKit · Swift Package Manager
-GitHub Actions · Git · Xcode · Web (HTML/JS)
+Keychain · Biometrics · GitHub Actions · Git · Xcode
 ```
 
 ---
@@ -49,7 +49,7 @@ GitHub Actions · Git · Xcode · Web (HTML/JS)
 - Packages you can open and understand quickly
 - README in **EN + PT-BR**
 - Local relevance (Aracaju / Sergipe / Brasil) when it makes sense
-- Practical and advanced tools for real apps
+- Practical and advanced tools for real apps (including secure storage)
 
 ---
 
