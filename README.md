@@ -33,6 +33,7 @@ Aracaju, Sergipe — Brasil
 | **[swift-async-kit](https://github.com/RknDEV1/swift-async-kit)** | iOS | Advanced networking (retry, timeout, cache) |
 | **[brasil-utils](https://github.com/RknDEV1/brasil-utils)** | iOS | Brazilian helpers (CPF, CEP, phone, R$) |
 | **[toolkit-demo](https://github.com/RknDEV1/toolkit-demo)** | iOS | Visual demos of the packages |
+| **[android-toolkit](https://github.com/RknDEV1/android-toolkit)** | Android | Kotlin + Compose utilities (in progress) |
 
 ---
 
