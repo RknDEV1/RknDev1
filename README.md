@@ -2,12 +2,13 @@
 
 # RknDEV
 
-**iOS · Swift · SwiftUI**  
+**iOS · Android · Mobile**  
 Aracaju, Sergipe — Brasil
 
 [![GitHub](https://img.shields.io/badge/GitHub-RknDEV1-181717?logo=github)](https://github.com/RknDEV1)
 [![Swift](https://img.shields.io/badge/Swift-5.9+-orange?logo=swift)](https://swift.org)
-[![Platform](https://img.shields.io/badge/Platform-iOS%2017%2B-blue)](https://developer.apple.com)
+[![Kotlin](https://img.shields.io/badge/Kotlin-Android-7F52FF?logo=kotlin)](https://kotlinlang.org)
+[![Platform](https://img.shields.io/badge/Platforms-iOS%20%7C%20Android-blue)](https://developer.apple.com)
 
 </div>
 
@@ -15,41 +16,42 @@ Aracaju, Sergipe — Brasil
 
 ### About / Sobre
 
-**EN** — I build native iOS libraries and small apps with Swift and SwiftUI. Focus on clean structure, reusable code and documentation in English and Portuguese.
+**EN** — I build native mobile apps and reusable libraries for **iOS (Swift/SwiftUI)** and **Android (Kotlin)**. Focus on clean structure, security, and practical tools.
 
-**PT** — Desenvolvo bibliotecas e apps nativos iOS com Swift e SwiftUI. Foco em estrutura limpa, código reutilizável e documentação em inglês e português.
+**PT** — Desenvolvo apps nativos e bibliotecas reutilizáveis para **iOS (Swift/SwiftUI)** e **Android (Kotlin)**. Foco em estrutura limpa, segurança e ferramentas práticas.
 
 ---
 
 ### Featured projects / Projetos em destaque
 
-| Project | Description |
-|---------|-------------|
-| **[aju-util](https://github.com/RknDEV1/aju-util)** | Utility app for Aracaju — emergency, services, health tips (SwiftUI) |
-| **[aju-util-web](https://github.com/RknDEV1/aju-util-web)** | Web version of Aju Util — usable on any phone browser |
-| **[swift-async-kit](https://github.com/RknDEV1/swift-async-kit)** | Advanced async networking — retry, timeout, cache, typed errors |
-| **[brasil-utils](https://github.com/RknDEV1/brasil-utils)** | Brazilian helpers — phone, CEP, CPF, currency (R$) |
-| **[swift-toolkit](https://github.com/RknDEV1/swift-toolkit)** | Swift utilities — Keychain, biometrics (Face ID/Touch ID), validators, formatters |
-| **[swift-ui-kit](https://github.com/RknDEV1/swift-ui-kit)** | SwiftUI components — buttons, fields, cards, toasts |
-| **[toolkit-demo](https://github.com/RknDEV1/toolkit-demo)** | Sample screens using the packages |
+| Project | Platform | Description |
+|---------|----------|-------------|
+| **[aju-util](https://github.com/RknDEV1/aju-util)** | iOS | Utility app for Aracaju — emergency, services, health tips |
+| **[aju-util-web](https://github.com/RknDEV1/aju-util-web)** | Web | Same idea, usable in any mobile browser |
+| **[swift-toolkit](https://github.com/RknDEV1/swift-toolkit)** | iOS | Keychain, biometrics, validators, formatters |
+| **[swift-ui-kit](https://github.com/RknDEV1/swift-ui-kit)** | iOS | Reusable SwiftUI components |
+| **[swift-async-kit](https://github.com/RknDEV1/swift-async-kit)** | iOS | Advanced networking (retry, timeout, cache) |
+| **[brasil-utils](https://github.com/RknDEV1/brasil-utils)** | iOS | Brazilian helpers (CPF, CEP, phone, R$) |
+| **[toolkit-demo](https://github.com/RknDEV1/toolkit-demo)** | iOS | Visual demos of the packages |
 
 ---
 
 ### Stack
 
 ```text
-Swift · SwiftUI · async/await · MapKit · Swift Package Manager
-Keychain · Biometrics · GitHub Actions · Git · Xcode
+iOS:     Swift · SwiftUI · Keychain · Biometrics · SPM
+Android: Kotlin · Jetpack Compose (em construção)
+Shared:  Git · GitHub Actions · Clean architecture
 ```
 
 ---
 
-### What I care about / O que priorizo
+### Focus / Foco
 
-- Packages you can open and understand quickly
-- README in **EN + PT-BR**
-- Local relevance (Aracaju / Sergipe / Brasil) when it makes sense
-- Practical and advanced tools for real apps (including secure storage)
+- Native mobile (iOS + Android)
+- Reusable packages and clear documentation (EN + PT)
+- Security (biometrics, secure storage)
+- Practical tools with local relevance when it makes sense
 
 ---
 
