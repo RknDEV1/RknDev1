@@ -25,7 +25,8 @@ Aracaju, Sergipe — Brasil
 
 | Project | Description |
 |---------|-------------|
-| **[aju-util](https://github.com/RknDEV1/aju-util)** | Utility app for Aracaju — emergency numbers, public services, health tips, offline coordinates |
+| **[aju-util](https://github.com/RknDEV1/aju-util)** | Utility app for Aracaju — emergency, services, health tips, offline coordinates (SwiftUI) |
+| **[aju-util-web](https://github.com/RknDEV1/aju-util-web)** | Web version of Aju Util — usable on any phone browser (no Xcode needed) |
 | **[swift-toolkit](https://github.com/RknDEV1/swift-toolkit)** | Swift utilities — Keychain, validators (email/CPF), formatters, network, debouncer |
 | **[swift-ui-kit](https://github.com/RknDEV1/swift-ui-kit)** | SwiftUI components — buttons, validated fields, cards, toasts, headers |
 | **[toolkit-demo](https://github.com/RknDEV1/toolkit-demo)** | Sample screens using both packages together |
@@ -36,7 +37,7 @@ Aracaju, Sergipe — Brasil
 
 ```text
 Swift · SwiftUI · MapKit · Swift Package Manager
-GitHub Actions · Git · Xcode
+GitHub Actions · Git · Xcode · Web (HTML/JS)
 ```
 
 ---
@@ -46,14 +47,13 @@ GitHub Actions · Git · Xcode
 - Packages you can open and understand quickly
 - README in **EN + PT-BR**
 - Local relevance (Aracaju / Sergipe) when it makes sense
-- CI and clear project layout
+- Practical tools that work even without a Mac
 
 ---
 
 ### Learning path / Jornada
 
-Building in public: from toolkits → demo → a city utility app (**Aju Util**).  
-Next steps depend on access to a Mac for device builds; the code stays on GitHub as a portfolio.
+Building in public: toolkits → demo → city utility app (**Aju Util**) → web version for immediate use.
 
 ---
 
